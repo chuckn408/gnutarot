@@ -1,0 +1,17 @@
+##display menu
+
+##choose layout
+
+##run gen for major
+#for ( major_num < lay_maj_max, major_num++)
+	/* run gen for flip */
+	#display major_num
+	#loop
+
+##run gen for minor
+#for ( minor_num < lay_min_max, minor_num++)
+	/* run gen for flip */
+	#display minor_num
+	#loop
+
+##display bodytexts
