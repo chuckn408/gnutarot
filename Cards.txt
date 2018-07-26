@@ -1,109 +1,318 @@
 ________Major Arcana________
 ############################
 The Fool
++ Beginnings, innocence, spontaneity, a free spirit
+- Naivety, foolishness, recklessness, risk-taking
 
 The Magician
++ Power, skill, concentration, action, resourcefulness
+- Manipulation, poor planning, latent talents
 
 The High Priestess
++ Intuition, Higher powers, mystery, subconscious mind
+- Hidden agendas, need to listen to inner voice
 
 The Empress
++ Fertility, femininity, beauty, nature, abundance
+- Creative block, dependence on others
 
 The Emperor
++ Authority, father-figure, structure, solid foundation
+- Domination, excessive control, rigidity, inflexibility
 
 The Hierophant
++ Religion, group identification, conformity, tradition, beliefs
+- Restriction, challenging the status quo
 
 The Lovers
++ Love, union, relationships, values alignment, choices
+- Disharmony, imbalance, misalignment of values
 
 The Chariot
++ Control, will power, victory, assertion, determination
+- Lack of control and direction, aggressio
 
 Strength
++ Strength, courage, patience, control, compassion
+- Weakness, self-doubt, lack of self-discipline
 
 The Hermit
++ Soul-searching, introspection, being alone, inner guidance
+- Isolation, loneliness, withdrawal
 
 Wheel of Fortune
++ Good luck, karma, life cycles, destiny, a turning point
+- Bad luck, negative external forces, out of control
 
 Justice
++ Justice, fairness, truth, cause and effect, law
+- Unfairness, lack of accountability, dishonesty
 
 The Hanged Man
++ Suspension, restriction, letting go, sacrifice
+- Martyrdom, indecision, delay
 
 Death
++ Endings, beginnings, change, transformation, transition
+- Resistance to change, unable to move on
 
 Temperance
++ Endings, beginnings, change, transformation, transition
+- Resistance to change, unable to move on
 
 The Devil
++ Bondage, addiction, sexuality, materialism
+- Detachment, breaking free, power reclaimed
 
 The Tower
++ Disaster, upheaval, sudden change, revelation
+- Avoidance of disaster, fear of change
 
 The Star
++ Hope, spirituality, renewal, inspiration, serenity
+- Lack of faith, despair, discouragement
 
 The Moon
++ Illusion, fear, anxiety, insecurity, subconscious
+- Release of fear, unhappiness, confusion
 
 The Sun
++ Fun, warmth, success, positivity, vitality
+- Temporary depression, lack of success
 
 Judgement
++ Judgement, rebirth, inner calling, absolution
+- Self-doubt, refusal of self-examination
 
 The World
++Completion, integration, accomplishment, travel
+- Lack of completion, lack of closure
 
 ############################
 --------Minor Arcana--------
 Ace of Wands
++ Inspiration, power, creation, beginnings, potential
+- Delays, lack of motivation, weighed down
+
 Two of Wands
-Two of Wands
++ Future planning, progress, decisions, discovery
+- Fear of unknown, lack of planning
+
 Three of Wands
++ Preparation, foresight, enterprise, expansion
+- Lack of foresight, delays, obstacles to long-term goals
+
 Four of Wands
-King of Wands
++ Celebration, harmony, marriage, home, community
+- Breakdown in communication, transition
+
 Five of Wands
+Uprightt: Disagreement, competition, strife, tension, conflict
+- Conflict avoidance, increased focus on goals
+
 Six of Wands
++ Public recognition, victory, progress, self-confidence
+- Egotism, disrepute, lack of confidence, fall from grace
+
 Seven of Wands
++ Challenge, competition, perseverance
+- Giving up, overwhelmed, overly protective
+
 Eight of Wands
++ Speed, action, air travel, movement, swift change
+- Delays, frustration, holding off
+
 Nine of Wands
++ Courage, persistence, test of faith, resilience
+- On edge, defensive, hesitant, paranoia
+
 Ten of Wands
++ Burden, responsibility, hard work, stress, achievement
+- Taking on too much, avoiding responsibility
+
 Page of Wands
++ Enthusiasm, exploration, discovery, free spirit
+- Setbacks to new ideas, pessimism, lack of direction
+
 Knight of Wands
++ Energy, passion, lust, action, adventure, impulsiveness
+- Haste, scattered energy, delays, frustration
+
 Queen of Wands
++ Exuberance, warmth, vibrancy, determination
+- Shrinking violet, aggressive, demanding
+
 King of Wands
++ Natural-born leader, vision, entrepreneur, honour
+- Impulsiveness, haste, ruthless, high expectations
+
 
 Ace of Swords
-Two of Swords
++ Raw power, victory, break-throughs, mental clarity
+- Confusion, chaos, lack of clarityTwo of Swords
+
+Two of Swoards
++ Indecision, choices, truce, stalemate, blocked emotions
+- Indecision, confusion, information overload
+
 Three of Swords
++ Painful separation, sorrow heartbreak, grief, rejection
+- Releasing pain, optimism, forgiveness
+
 Four of Swords
++ Contemplation, recuperation, passivity, relaxation, rest
+- Restlessness, burn-out, lack of progress
+
 Five of Swords
++ Conflict, tension, loss, defeat, win at all costs, betrayal
+- Open to change, past resentment
+
 Six of Swords
++ Regretful but necessary transition, rite of passage
+- Cannot move on, carrying baggage
+
 Seven of Swords
++ Betrayal, deception, getting away with something, stealth
+- Mental challenges, breaking free
+
 Eight of Swords
++ Isolation, self-imposed restriction, imprisonment
+- Open to new perspectives, release
+
 Nine of Swords
++ Depression, nightmares, intense anxiety, despair
+- Hopelessness, severe depression, torment
+
 Ten of Swords
++ Back-stabbed, defeat, crisis, betrayal, endings, loss
+- Recovery, regeneration, fear of ruin, inevitable end
+
 Page of Swords
++ Talkative, curious, mentally restless, energetic
+- All talk and no action, haste, undelivered promises
+
 Knight of Swords
++ Opinionated, hasty, action-oriented, communicative
+- Scattered thought, disregard for consequences
+
 Queen of Swords
++ Quick thinker, organised, perceptive, independent
+- Overly-emotional, bitchy, cold-hearted
+
 King of Swords
++ Clear thinking, intellectual power, authority, truth
+- Manipulative, tyrannical, abusive
+
 
 Ace of Coins
++ Manifestation, new financial opportunity, prosperity
+- Lost opportunity, lack of planning and foresight
+
 Two of Coins
++ Balance, adaptability, time management, prioritisation
+- Disorganisation, financial disarray
+
 Three of Coins
++ Teamwork, initial fulfilment, collaboration, learning
+- Lack of teamwork, disregard for skills
+
 Four of Coins
++ Control, stability, security, possession, conservatism
+- Greed, materialism, self-protection
+
 Five of Coins
++ Isolation, insecurity, worry, financial loss, poverty
+- Recovery from financial loss, spiritual poverty
+
 Six of Coins
++ Generosity, charity, giving, prosperity, sharing wealth
+- Debt, selfishness, one-sided charity
+
 Seven of Coins
++ Vision, perseverance, profit, reward, investment
+- Lack of long-term vision, limited success or reward
+
 Eight of Coins
++ Apprenticeship, education, quality, engagement
+- Perfectionism, lacking ambition or focus
+
 Nine of Coins
++ Gratitude, luxury, self-sufficiency, culmination
+- Over-investment in work, financial setbacks
+
 Ten of Coins
++ Wealth, inheritance, family, establishment, retirement
+- Financial failure, loneliness, loss
+
 Page of Coins
++ Manifestation, financial opportunity, new job
+- Lack of progress and planning, short-term focus
+
 Knight of Coins
++ Efficiency, routine, conservatism, methodical
+- Laziness, boredom, feeling ‘stuck’
+
 Queen of Coins
++ Practical, homely, motherly, down-to-earth, security
+- Imbalance in work/ family commitments
+
 King of Coins
++ Security, control, power, discipline, abundance
+- Authoritative, domineering, controlling
+
 
 Ace of Cups
++ Love, compassion, creativity, overwhelming emotion
+- Blocked or repressed emotions
+
 Two of Cups
++ Unified love, partnership, attraction, relationships
+- Break-up, imbalance in a relationship, lack of harmony
+
 Three of Cups
++ Celebration, friendship, creativity, community
+- An affair, “three’s a crowd”, stifled creativity
+
 Four of Cups
++ Meditation, contemplation, apathy, re-evaluation
+- Boredom, missed opportunity, being aloof
+
 Five of Cups
++ Loss, regret, disappointment, despair, bereavement
+- Moving on, acceptance, forgiveness
+
 Six of Cups
++ Reunion, nostalgia, childhood memories, innocence
+- Stuck in the past, naivety, unrealistic
+
 Seven of Cups
++ Fantasy, illusion, wishful thinking, choices, imagination
+- Temptation, illusion, diversionary tactics
+
 Eight of Cups
++ Escapism, disappointment, abandonment, withdrawal
+- Hopelessness, aimless drifting, walking away
+
 Nine of Cups
++ Wishes fulfilled, comfort, happiness, satisfaction
+- Greed, dissatisfaction, materialism
+
 Ten of Cups
++ Harmony, marriage, happiness, alignment
+- Misalignment of values, broken home or marriage
+
 Page of Cups
++ A messenger, creative beginnings, synchronicity
+- Emotional immaturity, creative block
+
 Knight of Cups
++ Romance, charm, ‘Knight in shining armour’, imagination
+- Unrealistic, jealousy, moodiness
+
 Queen of Cups
++ Emotional security, calm, intuitive, compassionate
+- Emotional insecurity, co-dependency
+
 King of Cups
++ Emotional balance and control, generosity
+- Emotional manipulation, moodiness, volatility
