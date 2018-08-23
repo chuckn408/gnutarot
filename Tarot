@@ -1,17 +1,57 @@
-##display menu
+import javax.swing.*;
+import java.io.*;
 
+##Display Window
+public class SomeWindow extendsJFrame
+{
+	private JFrame mainFrame;
+	public SomeWindow()
+	{
+		mainFrame = newJFrame ("GNU Tarot");
+		mainFrame.setSize(300,150);
+		mainFrame.setVisible(true);
+	}
+	public static void main(String[] args)
+	{
+		new FirstWindow();
+	}
+}	
 ##choose layout
+System.out.print("Choose Card Spread:");
+output = br.readline();
 
-##run gen for major
+##Random generator
+RanNum=Math.random();
+int(Math.random())
+
+##run gen for major arcana
 #for ( major_num < lay_maj_max, major_num++)
-	/* run gen for flip */
+	/* run gen for flip(odds-up, even-down) */
 	#display major_num
-	#loop
+	#for-loop that depends on selected spread
 
-##run gen for minor
+##run gen for minor arcana
 #for ( minor_num < lay_min_max, minor_num++)
-	/* run gen for flip */
+	/* run gen for flip(odds-up, even-down) */
 	#display minor_num
-	#loop
+	#for-loop that depends on selected spread
 
 ##display bodytexts
+public class ReadText
+{
+	public static void main(String[] args)
+	throw java.io.IOException
+	{
+		String cards = "Cards.txt";
+		int i;
+		String inLine;
+		FileReader fr = new FileReader(cards);
+		BufferedReader br = new BufferedReader(fr);
+		for (i=0; i<3; i++)
+		{
+			inLine = br.readLine();
+			System.out.println(inLine);
+		}
+		br.close();
+	}
+}
